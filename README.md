@@ -1,6 +1,6 @@
 # URL Launcher
 
-A simple web-based tool to quickly open URLs in a new browser tab. Automatically adds "https://" prefix if missing.
+A simple web-based tool to quickly open URLs in a new browser tab. Automatically adds "https://" if the prefix is missing.
 
 ![URL Launcher Preview](screenshot.png)
 
@@ -46,7 +46,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
-
-## Screenshot
-
-![URL Launcher Screenshot](screenshot.png)
