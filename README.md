@@ -4,6 +4,8 @@ A simple web-based tool to quickly open URLs in a new browser tab. Automatically
 
 ![URL Launcher Preview](screenshot.png)
 
+https://azrakarakaya1.github.io/URLLauncher/
+
 ## Features
 
 - Clean, minimalist interface
