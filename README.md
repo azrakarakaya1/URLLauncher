@@ -22,18 +22,10 @@ https://azrakarakaya1.github.io/URLLauncher/
 
 ## Installation
 
-No installation required! This is a client-side web application. Simply:
+No installation required, this is a client-side web application. Simply:
 
 1. Clone this repository or download the files
 2. Open `index.html` in any modern web browser
-
-## Customization
-
-You can easily customize the appearance:
-
-- Replace `background.jpg` with your own background image
-- Modify `style.css` to change colors, fonts, or layout
-- Adjust the JavaScript in `index.html` to change URL handling behavior
 
 ## Technologies Used
 
