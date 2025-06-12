@@ -40,7 +40,3 @@ You can easily customize the appearance:
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements.
